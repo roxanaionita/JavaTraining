@@ -1,4 +1,4 @@
-#Prob1
+# Prob1
 
 Sa se completeze functiile `Read` si `Write` astfel incat:
 - Sa nu arunce nicio exceptie

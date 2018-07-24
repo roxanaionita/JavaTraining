@@ -1,4 +1,4 @@
-#Prob2
+# Prob2
 
 - Sa se creeze o clasa cu numele `Animal`, care contine
     - o metoda publica numita `makeSound` care nu ia niciun parametru si scrie ceva in consola

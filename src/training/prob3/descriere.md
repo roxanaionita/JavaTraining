@@ -1,4 +1,4 @@
-#Prob3
+# Prob3
 
 Simplu. Se doreste scrirere unei clase `RockPaperScissors` care sa se ocupe de un joc de piatra-hartie-frfk.  
 Utilizatorul trebuie sa poata sa zica _intr-un fel_ ce alege dintre piatra hartie sau foarfeca si calculatorul trebuie 

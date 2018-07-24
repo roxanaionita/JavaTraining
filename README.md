@@ -1,4 +1,4 @@
-#JavaTraining
+# JavaTraining
 
 In acest repo o sa lucrati toti ca sa vedem mai usor ce face fiecare si sa putem sa dam review-uri la cod.  
 
